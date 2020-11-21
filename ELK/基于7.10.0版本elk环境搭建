@@ -1,0 +1,5 @@
+准备工具：
+Java版本：JDK9及以上
+ES版本：elasticsearch-7.10.0
+Logstash版本：logstash-7.10.0
+Kibana版本：kibana-7.10.0-windows-x86_64
